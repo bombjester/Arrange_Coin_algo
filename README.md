@@ -19,7 +19,7 @@ The coins can form the following rows:
 
 Because the 3rd row is incomplete, we return 2.
 
-###Example 2:
+### Example 2:
 
 n = 8
 
